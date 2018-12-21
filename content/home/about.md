@@ -8,26 +8,26 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Development Economics",
-    "Industrial Organization"
-  ]
+# [interests]
+#  interests = [
+#    "Development Economics",
+#    "Industrial Organization"
+#  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Economics, since 2017"
-  institution = "Princeton University"
+# [[education.courses]]
+#  course = "PhD in Economics, since 2017"
+#  institution = "Princeton University"
 
-[[education.courses]]
-  course = "BA in Economics"
-  institution = "University of St. Gallen"
-  year = 2016
+# [[education.courses]]
+#  course = "BA in Economics"
+#  institution = "University of St. Gallen"
+#  year = 2016
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fifth-year Ph.D. student at Columbia University. I am visiting the Economics Department at Princeton University for the academic year 2018-2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I work in the intersection between Industrial Organization and other fields, like Education and Healthcare. My research is focused on trying to understand how markets work in industries that provide services related to investments in human capital. I use structural microeconomic models of demand and supply to understand how families and firms behave, combining administrative data from governments, private companies, self-collected data using surveys, and experimental interventions. I have projects in Chile, Peru and the Dominican Republic. 
