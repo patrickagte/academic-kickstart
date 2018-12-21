@@ -58,7 +58,7 @@ _with Christopher A. Neilson and Claudia Allende_
 
 We examine the role of biased beliefs about the distribution of school characteristics and search costs in the school choice process. To disentangle these two mechanisms, we conduct a randomized control trial in the Dominican Republic in which we vary the nature of the information that is given to parents. In the first treatment arm, we attempt to change parents’ beliefs by providing information on the price and quality distribution of schools in their neighborhood. In the second treatment arm, we try to also reduce search costs by including information on the attributes of each individual school in addition to the distributions. The experimental results are used to inform a structural model of search and school choice.
 
-$$ \vspave{1cm} $$
+$$ \infty \vspace{1cm} \leq $$
 
 
 **The Intergenerational Impacts of Capital for Microentrepreneurs: Long-run Evidence from a Flexible Credit Contract Intervention in India**
