@@ -7,6 +7,8 @@ date = 2016-04-20T00:00:00
 title = "Projects"
 subtitle = ""
 
+TEST PROJECT
+
 # Order that this section will appear in.
 weight = 50
 
@@ -48,7 +50,6 @@ filter_default = 0
 #   name = "Other"
 #   tag = "Demo"
 
-TEST PROJECT
 
 
 +++
