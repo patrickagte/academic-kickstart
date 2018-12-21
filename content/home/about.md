@@ -30,4 +30,4 @@ weight = 5
 
 I am a second-year Ph.D. student in Economics at Princeton University.
 
-I work on the intersection between Development Economics and Industrial Organization. My research focuses on market structures in low-income countries. I have projects in El Salvador, India, and the Dominican Republic.
+I work on the intersection of Development Economics and Industrial Organization. I have projects in El Salvador, India, and the Dominican Republic.
