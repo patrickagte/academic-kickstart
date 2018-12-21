@@ -28,6 +28,6 @@ weight = 5
 
 # Biography
 
-I am a fifth-year Ph.D. student at Columbia University. I am visiting the Economics Department at Princeton University for the academic year 2018-2019.
+I am a second-year Ph.D. student in Economics at Princeton University.
 
-I work in the intersection between Industrial Organization and other fields, like Education and Healthcare. My research is focused on trying to understand how markets work in industries that provide services related to investments in human capital. I use structural microeconomic models of demand and supply to understand how families and firms behave, combining administrative data from governments, private companies, self-collected data using surveys, and experimental interventions. I have projects in Chile, Peru and the Dominican Republic. 
+I work on the intersection between Development Economics and Industrial Organization. My research focuses on market structures in low-income countries. I have projects in El Salvador, India, and the Dominican Republic.
