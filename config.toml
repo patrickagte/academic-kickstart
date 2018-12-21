@@ -280,12 +280,12 @@ enableGitInfo = false
   #  icon_pack = "fab"
   #  link = "https://github.com/gcushen"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+   Link to a PDF of your resume/CV from the About widget.
+   To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+   [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -300,10 +300,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 #[[menu.main]]
 #  name = "Posts"
@@ -320,10 +320,10 @@ enableGitInfo = false
 #  url = "/tutorial/"
 #  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -333,20 +333,20 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+#  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [params.search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+#  [params.search.algolia]
+#    app_id = ""
+#    api_key = ""
+#    index_name = ""
+#    show_logo = false
 
 # Taxonomies.
 [taxonomies]
