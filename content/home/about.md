@@ -10,15 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Development Economics",
-    "Industrial Organization"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Economics"
   institution = "Princeton University"
-  year = 2017 - now
+  year = 2017
 
 [[education.courses]]
   course = "BA in Economics"
