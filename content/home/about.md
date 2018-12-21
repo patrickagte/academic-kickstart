@@ -10,23 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Development Economics",
-    "Industrial Organization"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Economics"
-  institution = "Princeton University"
-  year = 2017-
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "BA in Economics"
-  institution = "University of St. Gallen"
-  year = 2016
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
  
 +++
 
 # Biography
 
-Patrick Agte is a PhD Student in Economics at Princeton. His research interests include development economics and industrial organization.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
