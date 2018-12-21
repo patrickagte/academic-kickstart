@@ -53,9 +53,12 @@ filter_default = 0
 
 +++
 
-** Project 1 **
+**Project 1**
 
 I am a second-year Ph.D. student in Economics at Princeton University.
 
 I work on the intersection of Development Economics and Industrial Organization. I have projects in El Salvador, India, and the Dominican Republic.
+
+
+**Project 2**
 
