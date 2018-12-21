@@ -28,6 +28,6 @@ weight = 5
 
 # Biography
 
-I am a second-year Ph.D. student in Economics at Princeton University.
+I am a second-year PhD student in Economics at Princeton University.
 
 My research focuses on the intersection of Development Economics and Industrial Organization. 
