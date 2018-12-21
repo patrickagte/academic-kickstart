@@ -79,7 +79,7 @@ We examine whether providing motivation and personalized feedback can improve th
 
 _with Daniel Morales, Christopher A. Neilson, Sebastian Otero, and Gautam Rao_
 
-This study examines whether providing information on the evidence behind a program increases its adoption by government officials. To test this, we exploit the nationwide scale-up of an education campaign in the Dominican Republic and randomly vary whether school officials receive information on the existing evidence of the impact of the program. A treatment arm with financial incentives acts as a benchmark. Further, we analyze whether technical assistance and additional reminders increase take-up.
+This study examines whether providing information on the evidence of the impact of a program increases its adoption by government officials. To test this, we exploit the nationwide scale-up of an education campaign in the Dominican Republic and randomly vary whether school officials receive information on the existing evidence of the impact of the program. A treatment arm with financial incentives acts as a benchmark. Further, we analyze whether technical assistance and additional reminders increase take-up.
 
 
 
