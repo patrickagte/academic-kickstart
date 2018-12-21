@@ -18,8 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Economics"
-  institution = "Princeton University"
-  year = 2017
+  institution = "Princeton University, since 2017"
 
 [[education.courses]]
   course = "BA in Economics"
